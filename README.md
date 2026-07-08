@@ -353,12 +353,6 @@ Groq provides extremely fast LLM inference, making it suitable for real-time eco
 
 ---
 
-# License
-
-MIT License
-
----
-
 ## Author
 
 **Rudra Shankar Biswas**
